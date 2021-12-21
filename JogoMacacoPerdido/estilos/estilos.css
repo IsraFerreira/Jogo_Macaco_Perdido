@@ -1,0 +1,44 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+    color:aliceblue;
+}
+
+main{
+    background-color: rgb(59, 49, 41);
+    width: 670px;
+    height: 820px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 3px black;  
+    color: rgb(221, 241, 241);
+}
+
+
+img.pri{
+    float:right;
+    width: 150px;
+    height: 150px;
+}
+
+img.cipo{
+    float:right;
+    width: 150px;
+    height: 150px;
+}
+
+#btnChutar{
+    margin-top: 20px;
+    padding: 5px;
+}
+
+#num {
+    padding: 5px;
+}
+
+
+
